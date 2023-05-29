@@ -1,0 +1,6 @@
+2022-05-01 Mohammedia Produit1 100
+2023-05-01 Beni_mellal Produit2 50
+2023-05-01 Beni_mellal Produit3 600
+2023-04-09 Agadir Produit4 750
+2023-12-02 Casablanca Produit5 120
+2023-12-07 Casablanca Produit6 300
